@@ -11,7 +11,7 @@
     "@types/ejs": "^3.0.0",
     "@types/express-ejs-layouts": "^2.3.2",
     "@types/sequelize": "^4.28.8",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "command-line-args": "^5.1.1",
     "cookie-parser": "^1.4.4",
     "cookies-parser": "^1.2.0",
